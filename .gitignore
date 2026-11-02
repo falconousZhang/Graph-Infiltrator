@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+results/
+*_results/
+data/*/processed/
+.DS_Store
